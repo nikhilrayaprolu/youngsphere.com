@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 827.86293 178.29095"
+   height="47.172813mm"
+   width="219.03874mm"
+   xml:space="preserve"
+   id="svg3834"
+   version="1.1"><metadata
+     id="metadata3840"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3838"><clipPath
+       id="clipPath3862"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path3860"
+         d="M 0,1280 H 1280 V 0 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,-9.9298111,980.52435)"
+     id="g3842"><text
+       y="-615.49542"
+       x="144.69386"
+       id="text3846"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.53346252px;font-family:'Nunito Sans';-inkscape-font-specification:NunitoSans-Regular;writing-mode:lr-tb;fill:#f36d21;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70157439"
+       transform="scale(0.98739319,-1.0127678)"><tspan
+         style="stroke-width:0.70157439"
+         id="tspan3844"
+         y="-615.49542"
+         x="144.69386 189.07391 235.99001 283.41327 331.42828">Young</tspan></text>
+<text
+       y="-547.28998"
+       x="426.12021"
+       id="text3850"
+       style="font-style:italic;font-variant:normal;font-stretch:normal;font-size:120.23246002px;font-family:'Apple Braille';-inkscape-font-specification:Apple-Chancery;writing-mode:lr-tb;fill:#f36d21;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.62501216"
+       transform="scale(0.87963989,-1.1368288)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Italic';stroke-width:0.62501216"
+         id="tspan3848"
+         y="-547.28998"
+         x="426.12021">s</tspan></text>
+<text
+       y="-615.49542"
+       x="419.03818"
+       id="text3854"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.53346252px;font-family:'Nunito Sans';-inkscape-font-specification:NunitoSans-Regular;writing-mode:lr-tb;fill:#f36d21;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70157439"
+       transform="scale(0.98739319,-1.0127678)"><tspan
+         style="stroke-width:0.70157439"
+         id="tspan3852"
+         y="-615.49542"
+         x="419.03818 468.23669 516.25165 560.80078 589.79584">phere</tspan></text>
+<g
+       transform="matrix(0.58518644,0,0,0.49778301,-296.41485,303.48031)"
+       id="g3856"><g
+         clip-path="url(#clipPath3862)"
+         id="g3858"><g
+           transform="translate(528.9451,855.9971)"
+           id="g3864"><path
+             id="path3866"
+             style="fill:#f36d21;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c 3.062,0.188 7.889,0.287 14.487,0.287 6.599,0 15.299,-1.39 26.107,-4.16 10.802,-2.775 20.799,-7.127 29.979,-13.053 9.18,-5.931 17.594,-13.103 25.246,-21.517 14.152,-15.684 25.245,-34.524 33.278,-56.515 11.475,32.704 26.393,57.757 44.754,75.163 C 187.81,-6.599 203.207,0 220.039,0 h 2.295 v -2.869 c -9.565,-0.193 -19.463,-5.214 -29.692,-15.062 -10.234,-9.852 -19.176,-21.758 -26.824,-35.716 -7.652,-13.964 -14.106,-28.5 -19.365,-43.607 -5.262,-15.11 -8.368,-28.213 -9.323,-39.303 v -59.959 c 0,-4.782 1.766,-8.991 5.307,-12.622 3.537,-3.636 7.889,-5.451 13.053,-5.451 h 3.73 v -2.869 H 72.008 v 2.869 h 3.729 c 4.971,0 9.225,1.766 12.766,5.307 3.537,3.537 5.402,7.791 5.595,12.766 v 60.246 c -2.295,20.656 -9.181,42.553 -20.656,65.696 -13.197,26.775 -28.02,45.803 -44.467,57.09 C 19.409,-6.792 9.754,-3.254 0,-2.869 Z" /></g></g></g></g></svg>
